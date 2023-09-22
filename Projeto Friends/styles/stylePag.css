@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+    color: blue;
+}
+
+.tituloPagina{
+    font-size: x-large;
+    font-family:'Courier New', Courier, monospace;
+
+}
